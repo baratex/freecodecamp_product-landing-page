@@ -95,9 +95,8 @@ h2{
   text-align: center;
   color:#fefdd9;
   font-weight:400;
-  margin-top:20px;
-  margin-bottom:0px;
-}
+  margin:20px 0 0 0;
+ }
 
 .familygrid h3{
   font-size: 1.8rem;
