@@ -135,9 +135,10 @@ label, input {
 iframe{
   display:block;
   margin: 0 auto;
-  width:600px;
-  height: 400px;
-  max-width:100%;  
+  width:98%;
+  height:calc(98vw/1.5);
+  max-width:600px;
+  max-height:400px;  
 }
 
 .familygrid{
@@ -282,13 +283,6 @@ iframe{
 
   nav ul{
     display:none;
-  }
-
-  iframe{
-    width:98%;
-    height:calc(98vw/1.5);
-    max-width:600px;
-    max-height:400px;
   }
 }
 
